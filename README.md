@@ -2,13 +2,13 @@
 
 **Analyst de Engineering QA** [@Everis](https://github.com/everis-innolab).
 
-[![Twitter Badge](https://img.shields.io/twitter/follow/guilherme_rodz?color=%234fffff&label=%40guilherme_rodz&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/mateus_macedoo)
+[![Twitter Badge](https://img.shields.io/twitter/follow/guilherme_rodz?color=%234fffff&label=%40mateus_macedo&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/mateus_macedoo)
 
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-macedo-937a32163/)
 
 Software Quality and Engineering Analyst. Self-taught enthusiast developing in web technologies.
 
-- 🎥 Teaching thousands developers on [YouTube](https://youtube.com/rocketseat), every week.
+- 🎥 Fascinado por UI, API e Branding. Sou metódico e analítico com minhas competências, buscando sempre oferecer o melhor resultado, esperado ou programado.
 
 - ⚡ Currently mastering _Java_,_Kotlin_, _Domain Driven Design_, TDD and _Design Patterns_
 
