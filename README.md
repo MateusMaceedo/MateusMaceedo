@@ -2,7 +2,6 @@
 
 **Analyst de Engineering QA** [@Everis](https://github.com/everis-innolab).
 
-[![Twitter Badge](https://img.shields.io/twitter/follow/guilherme_rodz?color=%234fffff&label=%40mateus_macedo&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/mateus_macedoo)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-macedo-937a32163/)
 
 Software Quality and Engineering Analyst. Self-taught enthusiast developing in web technologies.
