@@ -2,6 +2,8 @@
 
 **Analyst de Engineering QA** [@Everis](https://github.com/everis-innolab).
 
+- Desenvolvendo aplicações back e front.
+
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-macedo-937a32163/)
 
 Software Quality and Engineering Analyst. Self-taught enthusiast developing in web technologies.
