@@ -12,7 +12,7 @@ Software Quality and Engineering Analyst. Self-taught enthusiast developing in w
 
 - 💬 API/RESTFull AP _Swagger_,_RAML_,_Postman_ e _Insomnia_.
 
-- 📫 Knowledge in DevOps culture.
+- 📫 Knowledge in DevOps culture....
 
 - 💚 BDD, DDD, TDD, Jira, Six Sigma, Lean Manufacturing..
 
