@@ -14,7 +14,7 @@ Software Quality and Engineering Analyst. Self-taught enthusiast developing in w
 
 - 📫 Knowledge in DevOps culture....
 
-- 💚 BDD, DDD, TDD, Jira, Six Sigma, Lean Manufacturing..
+- 💚 BDD, DDD, TDD, Jira, Six Sigma, Lean Manufacturing.....
 
 > "Whether it's Google or Apple or a free program, we have fantastic competitors and that keeps us looking."
 > ― Bill Gates
