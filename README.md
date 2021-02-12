@@ -4,6 +4,8 @@
 
 -I'm a {backend, frontend and mobile}. 
 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MateusMaceedo)](https://github.com/MateusMaceedo)
+
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-macedo-937a32163/)
 
 Software Quality and Engineering Analyst. Self-taught enthusiast developing in web technologies.
