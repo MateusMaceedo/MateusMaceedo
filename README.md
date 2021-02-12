@@ -2,7 +2,7 @@
 
 **Analyst de Engineering QA** [@Everis](https://github.com/everis-innolab).
 
-- Desenvolvendo aplicações back e front.
+-I'm a {backend, frontend and mobile}. 
 
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-macedo-937a32163/)
 
