@@ -8,7 +8,7 @@
 
 Software Quality and Engineering Analyst. Self-taught enthusiast developing in web technologies.
 
-- 🚀 Fascinado por UI, API e Branding. Sou metódico e analítico com minhas competências, buscando sempre oferecer o melhor resultado, esperado ou programado.
+- 🚀 Fascinated by UI, API and Branding. I am methodical and analytical with my skills, always trying to offer the best result, expected or planned.
 
 - ⚡ Currently mastering _Java_,_Kotlin_, _Domain Driven Design_, TDD and _Design Patterns_
 
