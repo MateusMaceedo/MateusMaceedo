@@ -1,7 +1,5 @@
 # ⚡ Mateus Macedo
 
-**Analyst de Engineering QA** [@Everis](https://github.com/everis-innolab).
-
 -I'm a {backend, frontend and mobile}. 
 
 [![Github Badge](https://img.shields.io/badge/Github--%2300EBEB?style=for-the-badge&logo=Github&link=https://github.com/MateusMaceedo)](https://github.com/MateusMaceedo)
