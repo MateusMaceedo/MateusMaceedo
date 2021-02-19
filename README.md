@@ -16,7 +16,7 @@
 </center>
 
 <h2> 📚 studying </h2>
-<p><img src="https://elixir-lang.org/images/logo/logo.png" width="10%" height="10%" align="left"><p>
+<p><img src="https://elixir-lang.org/images/logo/logo.png" width="10%" height="10%" align="left"></p>
 
 Software Quality and Engineering Analyst. Self-taught enthusiast developing in web technologies.
 
