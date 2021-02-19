@@ -5,15 +5,15 @@
 [![Github Badge](https://img.shields.io/badge/Github--%2300EBEB?style=for-the-badge&logo=Github&link=https://github.com/MateusMaceedo)](https://github.com/MateusMaceedo)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-macedo-937a32163/)
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=MateusMaceedo&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
-    />
-  </a>
-</p>
+<center>
+<table>
+  <tr>
+      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=pedropbazzo&show_icons=true&theme=dark&line_height=27" /></td>
+     </td>
+      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropbazzo&show_icons=true&theme=dark&line_height=27"  /></td>
+  </tr>  
+</table>
+</center>
 
 Software Quality and Engineering Analyst. Self-taught enthusiast developing in web technologies.
 
