@@ -17,7 +17,7 @@
 
 📚 studying
 
-<img src="https://elixir-lang.org/images/logo/logo.png" width="100%" height="100%">
+<img src="https://elixir-lang.org/images/logo/logo.png" width="30%" height="30%">
 
 Software Quality and Engineering Analyst. Self-taught enthusiast developing in web technologies.
 
