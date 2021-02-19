@@ -18,10 +18,7 @@
 <center>
 <table>
   <tr>
-      <td><img width="440px" align="left" src=img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=MateusMaceedo&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical" /></td>
+      <td>
      </td>
       <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMaceedo&show_icons=true&theme=dark&line_height=27"  /></td>
   </tr>  
