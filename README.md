@@ -18,13 +18,13 @@
 <center>
 <table>
   <tr>
-   <a href="https://github.com/DanielObara/github-readme-stats">
+   <td><a href="https://github.com/DanielObara/github-readme-stats">
     <img
-      align="center"
+      align="left"
+      width="440px"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=DanielObara&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
-    />
-  </a>
+      src="https://github-readme-stats.vercel.app/api?username=MateusMaceedo&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
+    /></td>
       <td>
      </td>
       <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMaceedo&show_icons=true&theme=dark&line_height=27"  /></td>
