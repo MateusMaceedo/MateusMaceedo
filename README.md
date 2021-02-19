@@ -15,6 +15,10 @@
 </table>
 </center>
 
+📚 studying
+
+<img src="https://elixir-lang.org/images/logo/logo.png" width="100%" height="100%">
+
 Software Quality and Engineering Analyst. Self-taught enthusiast developing in web technologies.
 
 - 🚀 Fascinated by UI, API and Branding. I am methodical and analytical with my skills, always trying to offer the best result, expected or planned.
