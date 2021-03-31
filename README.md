@@ -22,7 +22,7 @@
 
 ### ⚡📚 Skills - Studying
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/java%20-FF0000.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/angular%20-FF0000.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
