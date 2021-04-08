@@ -3,22 +3,19 @@
 [![Github Badge](https://img.shields.io/badge/Github--%2300EBEB?style=for-the-badge&logo=Github&link=https://github.com/MateusMaceedo)](https://github.com/MateusMaceedo)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-macedo-937a32163/)
 
-<center>
-<table>
-  <tr>
-   <td><a href="https://github.com/MateusMaceedo/github-readme-stats">
+<p align="justify">
+  <a href="https://github.com/MateusMaceedo/github-readme-stats">
     <img
-      align="left"
-      width="440px"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=MateusMaceedo&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
-    /></td>
-      <td>
-     </td>
-      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMaceedo&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"  /></td>
-  </tr>  
-</table>
-</center>
+      height="150"
+      src="https://github-readme-stats.vercel.app/api?username=MateusMaceedo&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=radical"
+    />
+  </a>
+   <a href="https://github.com/MateusMaceedo/github-readme-stats">
+    <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMaceedo&layout=compact&theme=radical" />
+  </a>  
+</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/java%20-FF0000.svg?&style=for-the-badge&logo=java&logoColor=white"/>
