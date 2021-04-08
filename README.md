@@ -7,7 +7,7 @@
   <a href="https://github.com/MateusMaceedo/github-readme-stats">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api?username=MateusMaceedo&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=radical"
+      src="https://github-readme-stats.vercel.app/api?username=MateusMaceedo&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=escuro"
     />
   </a>
    <a href="https://github.com/MateusMaceedo/github-readme-stats">
