@@ -13,7 +13,7 @@
    <a href="https://github.com/MateusMaceedo/github-readme-stats">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMaceedo&layout=compact&theme=escuro" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMaceedo&layout=compact&theme=gruvbox" />
   </a>  
 </p>
 
