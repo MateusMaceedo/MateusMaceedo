@@ -2,6 +2,7 @@
 
 [![Github Badge](https://img.shields.io/badge/Github--%2300EBEB?style=for-the-badge&logo=Github&link=https://github.com/MateusMaceedo)](https://github.com/MateusMaceedo)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-macedo-937a32163/)
+[![Gmail Badge](https://img.shields.io/badge/gmail--%2300EBEB?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/mateus-macedo-937a32163/)
 
 <p align="center">
   <a href="https://github.com/MateusMaceedo/github-readme-stats">
