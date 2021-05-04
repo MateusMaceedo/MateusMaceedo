@@ -4,6 +4,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-black&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-macedo-937a32163/)
 [![Gmail Badge](https://img.shields.io/badge/gmail--%2300EBEB?style=for-the-black&logo=gmail&logoColor=white)](mateusouza2014@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/Twitter--%2300EBEB?style=for-the-black&logo=Twitter&logoColor=white)](@mateus_macedoo)
+[![Twitch Badge](https://img.shields.io/badge/Twitch--%2300EBEB?style=for-the-black&logo=Twitter&logoColor=white)](https://www.twitch.tv/mateusmacedoo)
 
 <p align="center">
   <a href="https://github.com/MateusMaceedo/github-readme-stats">
