@@ -19,13 +19,6 @@
   </a>  
 </p>
 
-<p align="center"> 
-  
- #### Views :detective: <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/MateusMaceedo/count.svg" />
- </p>
-
 > "Whether it's Google or Apple or a free program, we have fantastic competitors and that keeps us looking."
 > ― Bill Gates
 
