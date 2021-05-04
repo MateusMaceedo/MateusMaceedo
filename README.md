@@ -1,6 +1,6 @@
 # Hello Friends,
 
-[![Github Badge](https://img.shields.io/badge/Github--%2300EBEB?style=for-the-badge&logo=Github&link=https://github.com/MateusMaceedo)](https://github.com/MateusMaceedo)
+[![Github Black](https://img.shields.io/badge/Github--%2300EBEB?style=for-the-badge&logo=Github&link=https://github.com/MateusMaceedo)](https://github.com/MateusMaceedo)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-macedo-937a32163/)
 [![Gmail Badge](https://img.shields.io/badge/gmail--%2300EBEB?style=for-the-badge&logo=gmail&logoColor=white)](mateusouza2014@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/Twitter--%2300EBEB?style=for-the-badge&logo=Twitter&logoColor=white)](@mateus_macedoo)
