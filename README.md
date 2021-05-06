@@ -16,7 +16,7 @@
   </a>
    <a href="https://github.com/MateusMaceedo/github-readme-stats">
     <img
-      width="410px"
+      width="414px"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMaceedo&layout=compact&theme=tokyonight" />
   </a>  
 </p>
