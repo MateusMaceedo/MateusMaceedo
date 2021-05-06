@@ -9,28 +9,15 @@
 
 <p align="center">
   
-  <a href="hhttps://github.com/MateusMaceedo/github-stats">
+  <a href="https://github.com/MateusMaceedo/github-stats">
     <img  alt="Mateus Macedo - GitHub Stats" width="400px" src="https://github.com/MateusMaceedo/github-stats/blob/master/generated/overview.svg" />
   </a> 
 
    <a href="https://github.com/MateusMaceedo/github-stats">
-    <img  alt="Mateus Macedo - GitHub Stats" width="400px" src="hhttps://github.com/MateusMaceedo/github-stats/blob/master/generated/languages.svg" />
+    <img  alt="Mateus Macedo - GitHub Stats" width="400px" src="https://github.com/MateusMaceedo/github-stats/blob/master/generated/languages.svg" />
   </a> 
 </p>
 
-<p align="center">
-  <a href="https://github.com/MateusMaceedo/github-readme-stats">
-    <img
-      height="150"
-      src="https://github-readme-stats.vercel.app/api?username=MateusMaceedo&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=tokyonight"
-    />
-  </a>
-   <a href="https://github.com/MateusMaceedo/github-readme-stats">
-    <img
-      height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMaceedo&layout=compact&theme=tokyonight" />
-  </a>  
-</p>
 
 Hello dev, I'm here to share with you my evolution and experience in software development, whatever the application or technology we use in projects, one thing we are sure of, evolution is notorious, feel free to share and look the projects, I am available if you want to send me an email, or twitter to chat, I look forward to meeting you and getting in touch with you.
 
