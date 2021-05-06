@@ -5,9 +5,8 @@
 [![Gmail Badge](https://img.shields.io/badge/gmail--%2300EBEB?style=for-the-black&logo=gmail&logoColor=white)](mateusouza2014@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/Twitter--%2300EBEB?style=for-the-black&logo=Twitter&logoColor=white)](@mateus_macedoo)
 [![Twitch Badge](https://img.shields.io/badge/Twitch--%2300EBEB?style=for-the-black&logo=Twitch&logoColor=white)](https://www.twitch.tv/mateusmacedoo)
-[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-26B03D?style=flat-square&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511964249895)]
+[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-26B03D?style=flat-square&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511964249895)](https://api.whatsapp.com/send?phone=+5511964249895)
 
-[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-26B03D?style=flat-square&logo=WhatsApp&logoColor=white
 <p align="center">
   <a href="https://github.com/MateusMaceedo/github-readme-stats">
     <img
