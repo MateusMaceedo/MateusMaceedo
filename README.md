@@ -8,14 +8,17 @@
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-26B03D?style=flat-square&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511964249895)](https://api.whatsapp.com/send?phone=+5511964249895)
 
 <p align="center">
-  
   <a href="https://github.com/MateusMaceedo/github-readme-stats">
-    <img  alt="Mateus Macedo - GitHub Stats" width="400px" src="https://github.com/MateusMaceedo/github-stats/blob/master/generated/overview.svg" />
-  </a> 
-
+    <img
+      hwidth="400px"
+      src="https://github-readme-stats.vercel.app/api?username=MateusMaceedo&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=tokyonight"
+    />
+  </a>
    <a href="https://github.com/MateusMaceedo/github-readme-stats">
-    <img  alt="Mateus Macedo - GitHub Stats" width="400px" src="https://github.com/MateusMaceedo/github-stats/blob/master/generated/languages.svg" />
-  </a> 
+    <img
+      width="400px"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMaceedo&layout=compact&theme=tokyonight" />
+  </a>  
 </p>
 
 
