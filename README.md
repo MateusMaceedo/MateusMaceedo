@@ -8,6 +8,17 @@
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-26B03D?style=flat-square&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511964249895)](https://api.whatsapp.com/send?phone=+5511964249895)
 
 <p align="center">
+  
+  <a href="hhttps://github.com/MateusMaceedo/github-stats">
+    <img  alt="Mateus Macedo - GitHub Stats" width="400px" src="https://github.com/MateusMaceedo/github-stats/blob/master/generated/overview.svg" />
+  </a> 
+
+   <a href="https://github.com/MateusMaceedo/github-stats">
+    <img  alt="Mateus Macedo - GitHub Stats" width="400px" src="hhttps://github.com/MateusMaceedo/github-stats/blob/master/generated/languages.svg" />
+  </a> 
+</p>
+
+<p align="center">
   <a href="https://github.com/MateusMaceedo/github-readme-stats">
     <img
       height="150"
