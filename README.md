@@ -9,11 +9,11 @@
 
 <p align="center">
   
-  <a href="https://github.com/MateusMaceedo/github-stats">
+  <a href="https://github.com/MateusMaceedo/github-readme-stats">
     <img  alt="Mateus Macedo - GitHub Stats" width="400px" src="https://github.com/MateusMaceedo/github-stats/blob/master/generated/overview.svg" />
   </a> 
 
-   <a href="https://github.com/MateusMaceedo/github-stats">
+   <a href="https://github.com/MateusMaceedo/github-readme-stats">
     <img  alt="Mateus Macedo - GitHub Stats" width="400px" src="https://github.com/MateusMaceedo/github-stats/blob/master/generated/languages.svg" />
   </a> 
 </p>
