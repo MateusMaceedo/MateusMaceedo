@@ -10,13 +10,13 @@
 <p align="center">
   <a href="https://github.com/MateusMaceedo/github-readme-stats">
     <img
-      hwidth="300px"
+      width="400px"
       src="https://github-readme-stats.vercel.app/api?username=MateusMaceedo&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=tokyonight"
     />
   </a>
    <a href="https://github.com/MateusMaceedo/github-readme-stats">
     <img
-      width="315px"
+      width="400px"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMaceedo&layout=compact&theme=tokyonight" />
   </a>  
 </p>
