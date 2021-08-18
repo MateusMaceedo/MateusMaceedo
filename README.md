@@ -19,7 +19,8 @@
    <a href="https://github.com/MateusMaceedo/github-readme-stats">
     <img
     height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMaceedo&layout=compact&theme=tokyonight" />
+     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+     <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MateusMaceedo&show_icons=true&locale=en&layout=compact" alt="MateusMaceedo" /></p>
   </a>  
 </p>
 
