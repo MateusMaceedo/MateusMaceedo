@@ -9,21 +9,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/mateusmaacedo/)](https://www.instagram.com/mateusmaacedo/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/mateus.soouza.902/)](https://www.facebook.com/mateus.soouza.902/)
 
-<p align="center">
-  <a href="https://github.com/MateusMaceedo/github-readme-stats">
-    <img
-     height="150"
-      src="https://github-readme-stats.vercel.app/api?username=MateusMaceedo&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=tokyonight"
-    />
-  </a>
-   <a href="https://github.com/MateusMaceedo/github-readme-stats">
-    <img
-    height="150"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMaceedo&layout=compact&theme=tokyonight" />
-  </a>  
-</p>
-
-
 Hello dev, I'm here to share with you my evolution and experience in software development, whatever the application or technology we use in projects, one thing we are sure of, evolution is notorious, feel free to share and look the projects, I am available if you want to send me an email, or twitter to chat, I look forward to meeting you and getting in touch with you.
 
 > "Whether it's Google or Apple or a free program, we have fantastic competitors and that keeps us looking."
