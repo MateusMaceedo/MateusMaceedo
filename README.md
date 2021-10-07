@@ -10,7 +10,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/mateus_macedoo?style=social)](https://twitter.com/mateus_macedoo)
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=MateusMaceedo&show_icons=true&theme=vue&hide_title=true&count_private=true" />
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=MateusMaceedo" alt="Languages" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Mateus_Maceedo" alt="Languages" />
 
 Hello dev, I'm here to share with you my evolution and experience in software development, whatever the application or technology we use in projects, one thing we are sure of, evolution is notorious, feel free to share and look the projects, I am available if you want to send me an email, or twitter to chat, I look forward to meeting you and getting in touch with you.
 
