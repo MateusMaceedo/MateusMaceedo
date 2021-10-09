@@ -11,12 +11,12 @@
 
 <p align="center">
   
-  <a href="https://github.com/ralmsdeveloper/github-stats">
-    <img  alt="Mateus Macedo - GitHub Stats" width="400px" src="https://github.com/ralmsdeveloper/github-stats/blob/master/generated/overview.svg" />
+  <a href="https://github.com/MateusMaceedo/github-stats">
+    <img  alt="Mateus Macedo - GitHub Stats" width="400px" src="https://github.com/MateusMaceedo/github-stats/blob/master/generated/overview.svg" />
   </a> 
 
-   <a href="https://github.com/ralmsdeveloper/github-stats">
-    <img  alt="Mateus Macedo - GitHub Stats" width="400px" src="https://github.com/ralmsdeveloper/github-stats/blob/master/generated/languages.svg" />
+   <a href="https://github.com/MateusMaceedo/github-stats">
+    <img  alt="Mateus Macedo - GitHub Stats" width="400px" src="https://github.com/MateusMaceedo/github-stats/blob/master/generated/languages.svg" />
   </a> 
 </p>
 
