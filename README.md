@@ -9,12 +9,10 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/mateus.soouza.902/)](https://www.facebook.com/mateus.soouza.902/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mateus_macedoo?style=social)](https://twitter.com/mateus_macedoo)
 
-<p align="center">
-  
-  <a href="https://github.com/MateusMaceedo/github-stats">
-    <img  alt="Mateus Macedo - GitHub Stats" width="400px" src="https://github.com/MateusMaceedo/github-stats/blob/master/generated/overview.svg" />
+[//]: # (<p align="center">)
+[//]: #  (<a href="https://github.com/MateusMaceedo/github-stats">)
+[//]: #    (<img  alt="Mateus Macedo - GitHub Stats" width="400px" src="https://github.com/MateusMaceedo/github-stats/blob/master/generated/overview.svg" />)
   </a> 
-
    <a href="https://github.com/MateusMaceedo/github-stats">
     <img  alt="Mateus Macedo - GitHub Stats" width="400px" src="https://github.com/MateusMaceedo/github-stats/blob/master/generated/languages.svg" />
   </a> 
