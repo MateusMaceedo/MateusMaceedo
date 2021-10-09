@@ -12,11 +12,11 @@
 [//]: # (<p align="center">)
 [//]: #  (<a href="https://github.com/MateusMaceedo/github-stats">)
 [//]: #    (<img  alt="Mateus Macedo - GitHub Stats" width="400px" src="https://github.com/MateusMaceedo/github-stats/blob/master/generated/overview.svg" />)
-  </a> 
+[//]: #   (</a>) 
 [//]: #    (<a href="https://github.com/MateusMaceedo/github-stats">)
 [//]: #     (<img  alt="Mateus Macedo - GitHub Stats" width="400px" src="https://github.com/MateusMaceedo/github-stats/blob/master/generated/languages.svg" />)
-  </a> 
-</p>
+[//]: #   (</a>) 
+[//]: # (</p>)
 
 Hello dev, I'm here to share with you my evolution and experience in software development, whatever the application or technology we use in projects, one thing we are sure of, evolution is notorious, feel free to share and look the projects, I am available if you want to send me an email, or twitter to chat, I look forward to meeting you and getting in touch with you.
 
