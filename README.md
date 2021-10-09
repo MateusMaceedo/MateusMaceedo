@@ -12,11 +12,11 @@
 <p align="center">
   
   <a href="https://github.com/MateusMaceedo/github-stats">
-    <img  alt="Rafael Almeida - GitHub Stats" width="400px" src="https://github.com/MateusMaceedo/github-stats/blob/master/generated/overview.svg" />
+    <img  alt="Mateus Macedo - GitHub Stats" width="400px" src="https://github.com/MateusMaceedo/github-stats/blob/master/generated/overview.svg" />
   </a> 
 
    <a href="https://github.com/MateusMaceedo/github-stats">
-    <img  alt="Rafael Almeida - GitHub Stats" width="400px" src="https://github.com/MateusMaceedo/github-stats/blob/master/generated/languages.svg" />
+    <img  alt="Mateus Macedo - GitHub Stats" width="400px" src="https://github.com/MateusMaceedo/github-stats/blob/master/generated/languages.svg" />
   </a> 
 </p>
 
