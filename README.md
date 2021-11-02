@@ -1,4 +1,4 @@
-# Hello Friends👋
+# Hello 👋
 
 [![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-macedo-937a32163/)](https://www.linkedin.com/in/mateus-macedo-937a32163/)
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-26B03D?style=flat-square&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511964249895)](https://api.whatsapp.com/send?phone=+5511964249895)
