@@ -6,6 +6,11 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/mateus.soouza.902/)](https://www.facebook.com/mateus.soouza.902/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mateus_macedoo?style=social)](https://twitter.com/mateus_macedoo)
 
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusMaceedo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMaceedo&layout=compact&langs_count=6&theme=algolia"/>
+</div>
+
 >Hello dev, I'm here to share with you my evolution and experience in software development, whatever the application or technology we use in projects, one thing we are sure of, evolution is notorious, feel free to share and look the projects, I am available if you want to send me an email, or twitter to chat, I look forward to meeting you and getting in touch with you.
 
 > "Whether it's Google or Apple or a free program, we have fantastic competitors and that keeps us looking."
