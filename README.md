@@ -6,9 +6,9 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/mateus.soouza.902/)](https://www.facebook.com/mateus.soouza.902/)
  <a href="https://MateusMaceedo.github.io/online-cv/"><img src="https://img.shields.io/badge/My%20online%20curriculum-0077B5.svg"></a>
 [![Twitter Follow](https://img.shields.io/twitter/follow/mateus_macedoo?style=social)](https://twitter.com/mateus_macedoo)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@MateusMaceedo)](https://github.com/anuraghazra/github-readme-stats)
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=MateusMaceedo&show_icons=true&theme=vue&hide_title=true&count_private=true" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=@MateusMaceedo" alt="Languages" />
 
 <!--
 **MateusMaceedo/MateusMaceedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
