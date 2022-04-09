@@ -9,7 +9,7 @@
 
 <div>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=MateusMaceedo&show_icons=true&theme=vue&hide_title=true&count_private=true" />
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Mateus_Maceedo" alt="Languages" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=mateus_maceedo" alt="Languages" />
 </div>
 
 <!--
