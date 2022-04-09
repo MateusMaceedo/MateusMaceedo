@@ -6,7 +6,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/mateus.soouza.902/)](https://www.facebook.com/mateus.soouza.902/)
  <a href="https://MateusMaceedo.github.io/online-cv/"><img src="https://img.shields.io/badge/My%20online%20curriculum-0077B5.svg"></a>
 [![Twitter Follow](https://img.shields.io/twitter/follow/mateus_macedoo?style=social)](https://twitter.com/mateus_macedoo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=@MateusMaceedo&repo=github-readme-stats)](https://github.com/@MateusMaceedo/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MateusMaceedo&repo=github-readme-stats)](https://github.com/MateusMaceedo/github-readme-stats)
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=MateusMaceedo&show_icons=true&theme=vue&hide_title=true&count_private=true" />
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=@MateusMaceedo" alt="Languages" />
