@@ -10,7 +10,7 @@
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=MateusMaceedo&show_icons=true&theme=vue&hide_title=true&count_private=true" />
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=MateusMaceedo" alt="Languages" />
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=mateus_macedoo&layout=compact)](https://github.com/MateusMaceedo?tab=repositories)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMaceedo&layout=compact)](https://github.com/MateusMaceedo?tab=repositories)
 
 <!--
 **MateusMaceedo/MateusMaceedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
