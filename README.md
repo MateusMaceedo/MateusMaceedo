@@ -7,11 +7,6 @@
  <a href="https://MateusMaceedo.github.io/online-cv/"><img src="https://img.shields.io/badge/My%20online%20curriculum-0077B5.svg"></a>
 [![Twitter Follow](https://img.shields.io/twitter/follow/mateus_macedoo?style=social)](https://twitter.com/mateus_macedoo)
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=MateusMaceedo&show_icons=true&theme=vue&hide_title=true&count_private=true" />
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=MateusMaceedo" alt="Languages" />
-
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMaceedo&layout=compact)](https://github.com/MateusMaceedo?tab=repositories)
-
 <!--
 **MateusMaceedo/MateusMaceedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
