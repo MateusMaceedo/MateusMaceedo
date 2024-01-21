@@ -10,6 +10,7 @@
  <a><img src="https://komarev.com/ghpvc/?username=MateusMaceedo&label=Profile%20views&color=0e75b6&style=flat" alt="MateusMaceedo"> </a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MateusMaceedo&show_icons=true&locale=en&layout=compact" alt="MateusMaceedo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MateusMaceedo&show_icons=true&locale=en" alt="MateusMaceedo" /></p>
 
 <!--
 **MateusMaceedo/MateusMaceedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
