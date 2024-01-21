@@ -1,6 +1,6 @@
 # Hello 👋
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MateusMaceedo&label=Profile%20views&color=0e75b6&style=flat" alt="MateusMaceedo" /> </p>
+
 [![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-macedo-937a32163/)](https://www.linkedin.com/in/mateus-macedo-937a32163/)
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-26B03D?style=flat-square&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511964249895)](https://api.whatsapp.com/send?phone=+5511964249895)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/mateusmaacedo/)](https://www.instagram.com/mateusmaacedo/)
