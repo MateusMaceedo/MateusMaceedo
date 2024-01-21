@@ -5,10 +5,9 @@
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-26B03D?style=flat-square&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511964249895)](https://api.whatsapp.com/send?phone=+5511964249895)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/mateusmaacedo/)](https://www.instagram.com/mateusmaacedo/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/mateus.soouza.902/)](https://www.facebook.com/mateus.soouza.902/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/mateus_macedoo?style=social)](https://twitter.com/mateus_macedoo)
  <a href="https://MateusMaceedo.github.io/online-cv/"><img src="https://img.shields.io/badge/My%20online%20curriculum-0077B5.svg">
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=MateusMaceedo&label=Profile%20views&color=0e75b6&style=flat" alt="MateusMaceedo" /> </p>
- 
- [![Twitter Follow](https://img.shields.io/twitter/follow/mateus_macedoo?style=social)](https://twitter.com/mateus_macedoo) </a>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=MateusMaceedo&label=Profile%20views&color=0e75b6&style=flat" alt="MateusMaceedo" /> </p></a>
 
 
 <!--
