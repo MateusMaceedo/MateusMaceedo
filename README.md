@@ -1,7 +1,7 @@
 <!-- lastfm -->
 <div align="center">
 
-# Hello 👋
+# Hello, 👋
 
 [![Mateus Macedo](https://img.shields.io/badge/-mateusmacedo.com-0e75b6?style=flat-square&logo=internetexplorer&logoColor=white&link=https://mateusmacedo.com)](https://mateusmacedo.com)
 [![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white&link=https://www.reddit.com/user/SEU_USERNAME)](https://www.reddit.com/user/SEU_USERNAME)
