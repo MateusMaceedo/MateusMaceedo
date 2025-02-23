@@ -15,7 +15,7 @@ jobs:
                   SHOW_XKCD: true
             - uses: Platane/snk/svg-only@v3
               with:
-                  github_user_name: cardoso-thiago
+                  github_user_name: MateusMaceedo
                   outputs: dist/github-snake.svg
             - uses: crazy-max/ghaction-github-pages@v3
               with:
