@@ -29,7 +29,7 @@
 > "Whether it's Google or Apple or a free program, we have fantastic competitors and that keeps us looking."
 > ― Bill Gates.
 
-![](https://raw.githubusercontent.com/MateusMaceedo/MateusMaceedo/main/github-snake.svg)
+![](https://github.com/MateusMaceedo/MateusMaceedo/raw/output/github-snake.svg)
 
 ![](profile-3d-contrib/profile-green-animate.svg)
 
