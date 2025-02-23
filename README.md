@@ -1,10 +1,5 @@
 # Hello 👋
 
-![](https://github.com/MateusMaceedo/MateusMaceedo/raw/output/github-snake.svg)
-
-
-
-
 [![Mateus Macedo](https://img.shields.io/badge/-mateusmacedo.com-0e75b6?style=flat-square&logo=internetexplorer&logoColor=white&link=https://mateusmacedo.com)](https://mateusmacedo.com)
 [![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white&link=https://www.reddit.com/user/SEU_USERNAME)](https://www.reddit.com/user/SEU_USERNAME)
 [![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/SEU_USERNAME)](https://dev.to/SEU_USERNAME)
@@ -25,6 +20,6 @@
 > "Whether it's Google or Apple or a free program, we have fantastic competitors and that keeps us looking."
 > ― Bill Gates.
 
-
-
 ![](profile-3d-contrib/profile-green-animate.svg)
+
+![](https://github.com/MateusMaceedo/MateusMaceedo/raw/output/github-snake.svg)
