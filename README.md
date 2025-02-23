@@ -13,8 +13,10 @@
 [![Handwriting Generator](https://img.shields.io/badge/Text%20to%20Handwriting-Generate-blue?style=flat-square)](https://saurabhdaware.github.io/text-to-handwriting/)
 <a href="https://MateusMaceedo.github.io/online-cv/"><img src="https://img.shields.io/badge/My%20online%20curriculum-0077B5.svg"></a>
 <a><img src="https://komarev.com/ghpvc/?username=MateusMaceedo&label=Profile%20views&color=0e75b6&style=flat" alt="MateusMaceedo"></a>
-[![Perguntas e Respostas](https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg)](https://stackoverflow.com/)
 
+<a href="https://stackoverflow.com/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="Perguntas e Respostas" width="40">
+</a>
 
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
