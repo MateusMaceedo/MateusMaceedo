@@ -20,4 +20,4 @@
 > "Whether it's Google or Apple or a free program, we have fantastic competitors and that keeps us looking."
 > ― Bill Gates.
 
- ![GitHub Snake](https://raw.githubusercontent.com/SEU_USERNAME/MateusMaceedo/output/github-snake.svg)
+ ![GitHub Snake](https://raw.githubusercontent.com/MateusMaceedo/MateusMaceedo/output/github-snake.svg)
