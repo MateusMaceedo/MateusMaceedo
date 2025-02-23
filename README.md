@@ -1,5 +1,6 @@
 # Hello 👋
 
+[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/SEU_USERNAME)](https://dev.to/SEU_USERNAME)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/SEU_ID)](https://stackoverflow.com/users/SEU_ID)
 [![Quora: Mateus Macedo](https://img.shields.io/badge/-Quora-B92B27?style=flat-square&logo=quora&logoColor=white&link=https://www.quora.com/profile/Mateus-Macedo)](https://www.quora.com/profile/Mateus-Macedo-15)
 [![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-macedo-937a32163/)](https://www.linkedin.com/in/mateus-macedo-937a32163/)
