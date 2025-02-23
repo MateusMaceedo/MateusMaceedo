@@ -20,6 +20,14 @@
 > "Whether it's Google or Apple or a free program, we have fantastic competitors and that keeps us looking."
 > ― Bill Gates.
 
+<!--START_SECTION:comicstrip-->
+<p align="center">
+ <a href="https://xkcd.com/">
+ <img src="https://imgs.xkcd.com/comics/km3net.png" />
+</a>
+</p>
+<!--END_SECTION:comicstrip-->
+
 ![](https://github.com/MateusMaceedo/MateusMaceedo/raw/output/github-snake.svg)
 
 ![](profile-3d-contrib/profile-green-animate.svg)
