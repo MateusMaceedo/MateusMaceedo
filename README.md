@@ -12,6 +12,8 @@
 <!--
 **MateusMaceedo/MateusMaceedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![GitHub Snake](https://raw.githubusercontent.com/SEU_USERNAME/MateusMaceedo/output/github-snake.svg)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -34,6 +36,3 @@ Here are some ideas to get you started:
 
 > "Whether it's Google or Apple or a free program, we have fantastic competitors and that keeps us looking."
 > ― Bill Gates.
-
-
-
