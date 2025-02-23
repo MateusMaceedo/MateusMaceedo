@@ -1,6 +1,6 @@
 # Hello 👋
 
-
+[![Quora: Mateus Macedo](https://pt.quora.com/profile/Mateus-Macedo-15)
 [![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-macedo-937a32163/)](https://www.linkedin.com/in/mateus-macedo-937a32163/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mateus_macedoo?style=social)](https://twitter.com/mateus_macedoo)
  <a href="https://MateusMaceedo.github.io/online-cv/"><img src="https://img.shields.io/badge/My%20online%20curriculum-0077B5.svg"></a>
