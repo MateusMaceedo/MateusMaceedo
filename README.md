@@ -1,3 +1,6 @@
+<!-- lastfm -->
+<p align="center"></p>
+
 # Hello 👋
 
 [![Mateus Macedo](https://img.shields.io/badge/-mateusmacedo.com-0e75b6?style=flat-square&logo=internetexplorer&logoColor=white&link=https://mateusmacedo.com)](https://mateusmacedo.com)
