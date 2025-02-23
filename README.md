@@ -1,6 +1,7 @@
 # Hello 👋
 
 [![Mateus Macedo](https://img.shields.io/badge/-mateusmacedo.com-0e75b6?style=flat-square&logo=internetexplorer&logoColor=white&link=https://mateusmacedo.com)](https://mateusmacedo.com)
+[![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white&link=https://www.reddit.com/user/SEU_USERNAME)](https://www.reddit.com/user/SEU_USERNAME)
 [![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/SEU_USERNAME)](https://dev.to/SEU_USERNAME)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/SEU_ID)](https://stackoverflow.com/users/SEU_ID)
 [![Quora: Mateus Macedo](https://img.shields.io/badge/-Quora-B92B27?style=flat-square&logo=quora&logoColor=white&link=https://www.quora.com/profile/Mateus-Macedo)](https://www.quora.com/profile/Mateus-Macedo-15)
