@@ -1,5 +1,6 @@
 # Hello 👋
 
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/SEU_ID)](https://stackoverflow.com/users/SEU_ID)
 [![Quora: Mateus Macedo](https://img.shields.io/badge/-Quora-B92B27?style=flat-square&logo=quora&logoColor=white&link=https://www.quora.com/profile/Mateus-Macedo)](https://www.quora.com/profile/Mateus-Macedo-15)
 [![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-macedo-937a32163/)](https://www.linkedin.com/in/mateus-macedo-937a32163/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mateus_macedoo?style=social)](https://twitter.com/mateus_macedoo)
